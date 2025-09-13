@@ -1,3 +1,1 @@
 print('vignesh')
-print('rama')
-
